@@ -7,7 +7,7 @@
 //
 
 import SwiftUI
-
+//source: https://medium.com/swlh/swiftui-create-a-sound-visualizer-cadee0b6ad37
 let numberOfSamples: Int = 10
 
 struct BarView: View {

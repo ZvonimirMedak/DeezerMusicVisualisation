@@ -9,6 +9,8 @@
 import AVFoundation
 import Accelerate
 import UIKit
+
+//source: https://developer.apple.com/documentation/accelerate/visualizing_sound_as_an_audio_spectrogram
 public class AudioSpectrogram: CALayer {
     
     override init() {
